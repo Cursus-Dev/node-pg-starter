@@ -1,1 +1,1 @@
-# node-pg-starter
+# Get started
